@@ -40,6 +40,8 @@ function GitInit (){
 	local topJsRepoStatus=$?
 	if [  "$topJsRepoStatus" -ne "0" ];then
 		cd $topJsDir > /dev/null
+		git config --global user.name "Hello"
+		git config --global user.email "hello@straphq.com"
 		git init > /dev/null
 		cp $gitignore $indexDir
 		cd - > /dev/null
