@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cb2fb38b7684e5e57563e413229c78025fecbcda.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/classes-2e1be351a071bd256af1add9d0bcd21b6aa8ed13.jar" />
+    </item>
+    <item
+        jar="/Users/steve/assets/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-818eca8c3018068192eb5fd3271386f93c832595.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/classes-dfc76da1ef1f0d5d884cc262224664efb9c1b637.jar" />
+    </item>
+    <item
+        jar="/Users/steve/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/gson-2.2.4-7aa7be50bc002b495f9be22dd6453c7a86bab796.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-b328d77c80fe53176baa0430c22ac1f3f774db6f.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/classes-0f22a4a1b27cacd6665167f29b101a5ccc42164d.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-3d3e07ff232af03f4e2b827e94851a2c1737c0df.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-cdba02b657ca769a7a129fde1930cf84341617b5.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-fbe940a469a302e4536a99abe391842c8d0bbabf.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-edc5fea79cd51208e1aeab2b00e7e0aeaa61d09d.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/exploded-aar/strapmetrics-mobile/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c54e7a862bc9eb6bed3cdd2d0e8a13477203a7d">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/classes-cde757d56a8e5b88f92ce4d609804a78a4b6a928.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/exploded-aar/strapkit_lib-mobile/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5a120b50f988f4a174c688eb04fa03ca8c7d10e3">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/classes-044ee4b3ad42be22a918e6f115989f0f2ecfdba0.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/strapmetrics-wear/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fcb41c0f875204308d382f099e9212c65dcb581f">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-cf78b0994d0873cd117cc8cdb757495756c50cd9.jar" />
+    </item>
+    <item
+        jar="/Users/steve/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/okio-1.2.0-97bd879473be0addb0b0cf01b7c734fc5b25f342.jar" />
+    </item>
+    <item
+        jar="/Users/steve/assets/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b9f2b972d848f6b8de588b887843a50db6fbf0ef.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/strapkit-wear/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="16ca9066d1d673eaccce3c308d41de4b1336efd5">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-708a11abb4d586da26a2ac87891d3e585437b982.jar" />
+    </item>
+    <item
+        jar="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/wear/build/intermediates/pre-dexed/debug/classes-f8d567ba383970ed8795a2e97421dff6706f0e2e.jar" />
+    </item>
+    <item
+        jar="/Users/steve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/steve/Dropbox/Projects/strap/strapkit_samples/hackernews/platforms/android-wear/hackernews/mobile/build/intermediates/pre-dexed/debug/okhttp-2.2.0-ab7ed7044aa88983340b683179441ffcff9536fb.jar" />
+    </item>
+
+</items>
